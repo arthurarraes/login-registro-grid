@@ -21,6 +21,7 @@
     display: inline;
     text-align: center;
     height: 105.4%;
+    background-size: cover;
 }
 
 .grid .img1 h1{
